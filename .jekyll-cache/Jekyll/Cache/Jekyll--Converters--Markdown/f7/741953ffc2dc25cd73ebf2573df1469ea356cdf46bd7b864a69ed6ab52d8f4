@@ -1,0 +1,51 @@
+I"B<link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet" />
+
+<!-- <p class="message">
+  Hey there! This page is included as an example. Feel free to customize it
+  for your own use upon downloading. Carry on!
+</p> -->
+
+<!-- To make pages show up in the sidebar, add `sidebar_link: true` to the front
+matter. -->
+
+<p><img alt="profile" src="profile.jpeg" width="300px" /></p>
+<h2 id="yue-meng">Yue Meng</h2>
+
+<p><em>Associate Professor &amp; Associate Chair, Graduate</em></p>
+
+<p><i class="em em-email" aria-role="presentation" aria-label="ENVELOPE"></i>
+<a href="mailto:meng.yue@utoronto.ca">
+  meng.yue@utoronto.ca
+</a></p>
+
+<p><i class="em em-telephone_receiver" aria-role="presentation" aria-label="TELEPHONE RECEIVER"></i>
+<a>
+  416-946-5111
+</a></p>
+
+<p><i class="em em-round_pushpin" aria-role="presentation" aria-label="ROUND PUSHPIN"></i>
+<a href="https://www.google.com/maps/place/John+P.+Robarts+Research+Library/">
+  Room 14-131, Robarts Library, Downtown Toronto (St. George)
+</a></p>
+
+<h3 id="areas-of-interest">Areas of Interest</h3>
+<ul>
+  <li>Environmental humanities</li>
+  <li>Chinese cultural history and literature (20th century)</li>
+  <li>History of science</li>
+  <li>Modern Chinese cities</li>
+</ul>
+
+<h3 id="education">Education</h3>
+<ul>
+  <li>PhD, History, University of California at Los Angeles</li>
+  <li>MA, Literature, University of California at Los Angeles</li>
+  <li>MA, Literature, Beijing University</li>
+  <li>BA, Beijing University</li>
+</ul>
+
+<h3 id="administrative-service">Administrative Service</h3>
+<ul>
+  <li>Associate Chair, Graduate</li>
+</ul>
+:ET
